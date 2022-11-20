@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="27.258331mm"
+   height="27.258331mm"
+   viewBox="0 0 27.258331 27.258331"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (8a69933317, 2022-10-28, custom)"
+   sodipodi:docname="a"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.5750001"
+     inkscape:cx="23.216782"
+     inkscape:cy="101.11888"
+     inkscape:window-width="1462"
+     inkscape:window-height="960"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-170.06992"
+       y="0"
+       width="177.90208"
+       height="106.2937"
+       id="rect3235" />
+    <rect
+       x="-68.251747"
+       y="28.951048"
+       width="25.552572"
+       height="22.073858"
+       id="rect3127" />
+    <linearGradient
+       id="linearGradient1051"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#fcf6f6;stop-opacity:1;"
+         offset="0"
+         id="stop1049" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1031"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1 @ F,0,0,1,0,2.6458333,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="10"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <rect
+       x="-68.251747"
+       y="28.951048"
+       width="25.552572"
+       height="22.073858"
+       id="rect3127-1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.2255829,-4.9286716)">
+    <g
+       id="g3428">
+      <path
+         style="fill:#cc8900;fill-opacity:1;stroke:#ffd600;stroke-width:0.8;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         id="rect788"
+         width="26.458332"
+         height="26.458332"
+         x="4.6255832"
+         y="5.3286715"
+         inkscape:path-effect="#path-effect1031"
+         d="m 7.2714165,5.3286715 21.1666655,0 a 2.6458333,2.6458333 45 0 1 2.645833,2.6458333 l 0,21.1666652 a 2.6458333,2.6458333 135 0 1 -2.645833,2.645834 l -21.1666655,0 A 2.6458333,2.6458333 45 0 1 4.6255832,29.14117 l 0,-21.1666652 A 2.6458333,2.6458333 135 0 1 7.2714165,5.3286715 Z"
+         sodipodi:type="rect" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.83476px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#010400;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         x="24.696629"
+         y="11.057837"
+         id="text3280"
+         inkscape:label="text3280"><tspan
+           sodipodi:role="line"
+           id="tspan3278"
+           style="stroke-width:0;stroke-dasharray:none"
+           x="24.696629"
+           y="11.057837">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#010400;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         x="11.029148"
+         y="24.987251"
+         id="text3280-7"
+         inkscape:label="text3280"><tspan
+           sodipodi:role="line"
+           id="tspan3421"
+           x="11.029148"
+           y="24.987251"
+           inkscape:label="tspan3421">A</tspan></text>
+    </g>
+  </g>
+</svg>
