@@ -6,4 +6,4 @@ services:
       - NODE_ENV=development
     tty: true
     volumes:
-      - ./client/app:/client/app
+      - ./client/app/src:/client/app/src
