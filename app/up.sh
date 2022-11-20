@@ -4,7 +4,7 @@ while getopts "m:" arg
 do
     case $arg in
         m) MODE=${OPTARG};;
-        *) usage exit 1;;
+        *) exit 1;;
     esac
 done
 
