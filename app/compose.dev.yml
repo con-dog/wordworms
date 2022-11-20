@@ -1,0 +1,9 @@
+services:
+  client:
+    build:
+      target: dev
+    environment:
+      - NODE_ENV=development
+    tty: true
+    volumes:
+      - ./client/app:/client/app
