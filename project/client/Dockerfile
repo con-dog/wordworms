@@ -2,7 +2,7 @@ FROM node:19.1 AS base
 
 WORKDIR /client/app
 
-COPY --chown=node:node app/package*.json .
+COPY --chown=node:node app/*.js app/*.json  ./
 
 #
 #
