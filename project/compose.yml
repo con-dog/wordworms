@@ -6,6 +6,6 @@ services:
     container_name: ww-client
     environment:
       - NODE_ENV=production
-    image: ww-client
+    image: ww-client:prod
     ports:
       - "8080:80"

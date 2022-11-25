@@ -2,8 +2,12 @@ services:
   client:
     build:
       target: dev
+    image: ww-client:dev
     environment:
       - NODE_ENV=development
     tty: true
     volumes:
       - ./client/app/src:/client/app/src
+      - ./client/app/webpack.config.js:/client/app/webpack.config.js
+      - ./client/app/package-lock.json:/client/app/package-lock.json
+      - ./client/app/package.json:/client/app/package.json
